@@ -1,0 +1,9 @@
+{
+    "nombre": "Alberto Gabriel",
+    "apellidos": "Ruiz Pérez",
+    "titulo": "Ingeniero Informático",
+    "antiguedad": 42,
+    "cursos_recibidos": [ "Exam 70-483: Programming in C#"],
+    "profesor": false,
+    "parrafo_grande": "Clase del Martes 03/11/2020\n\nNo olvides:\n\n\n  Rellena la tarea de asistencia\n\n\nComenzaremos repasando la introducción a la asignatura que hizo el profesor ..."
+}
