@@ -10,6 +10,10 @@
 * **Enlace Campus Virtual ULL:** :point_right: [Click me!]({{site.data.cv.enlace_campusULL}})
 * **Cita favorita:** 
   > {{site.data.cv.cita_favorita}}
+* **Cursos recibidos:**
+  {% for curso in site.data.cv.cursos_recibidos %}
+  * {{curso}}
+  {% endfor %}
 * **Código de ejemplo:**
    ```javascript
    function HolaMundo(){
