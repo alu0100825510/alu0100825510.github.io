@@ -5,8 +5,10 @@
     "fecha_de_nacimiento": "07/04/1995",
     "formacion_adicional": "Máster en Seguridad de las TIC (UOC)",
     "enlace_campusULL": "https://campusdoctoradoyposgrado.ull.es/user/profile.php?id=33910",
+    "linkedin":"https://www.linkedin.com/in/albertogabrielruizperez/",
     "cursos_recibidos": [ "Exam 70-483: Programming in C#", "Python", "Scrapy", "Wordpress", "PHP"],
     "cita_favorita": "01001000 01100001 01101100 01100001 00100000 01001101 01100001 01100100 01110010 01101001 01100100 00100001",
     "profesor": false,
     "parrafo_grande": "Clase del Martes 03/11/2020\n\nNo olvides:\n\n\n  Rellena la tarea de asistencia\n\n\nComenzaremos repasando la introducción a la asignatura que hizo el profesor ..."
 }
+
