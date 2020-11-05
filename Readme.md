@@ -1,5 +1,8 @@
 
-[![](https://secure.webtoolhub.com/static/resources/icons/set56/ed85b9d.png)]({{site.data.cv.enlace_campusULL}})
+
+<p align="center">
+  <img src="https://secure.webtoolhub.com/static/resources/icons/set56/ed85b9d.png" style="height:40%; width:40%">
+</p>
 
 
 ## Información del contacto
