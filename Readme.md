@@ -4,7 +4,7 @@
 
 
 ## Información del contacto
-* **Nombre:** {{site.data.cv.nombre}} {{site.data.cv.apellidos}}
+* **Nombre y Apellidos:** {{site.data.cv.nombre}} {{site.data.cv.apellidos}}
 * **Fecha de Nacimiento:** 07/04/2020
 * **Profesión:** Ingeniero Informático
 * **Formación adicional:** Máster en Seguridad de las TIC (UOC)
