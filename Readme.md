@@ -20,4 +20,4 @@
        alert( '¡Hola, Mundo!' );
    }
    ```
-* **Experiencia en el máster** :blue_book: [Click me!](./master.md)
+* **Linkedin** :link: [Click me!]({{site.data.cv.linkedin}})
